@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://imgur.com/Ua5zRyJ", width=250 />
+<img src="https://imgur.com/Ua5zRyJ.gif", width=250 />
 
 <!-- https://imgur.com/4GzkEdq -->
 GIF created with GETKAP.CO...
